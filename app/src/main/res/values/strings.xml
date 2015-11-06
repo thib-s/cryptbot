@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CryptBot</string>
+    <string name="text_hint">entrez votre message</string>
+    <string name="password_hint">mot de passe</string>
+    <string name="crypt">Crypter</string>
+    <string name="decrypt">Decrypter</string>
+    <string name="key_error_message">La clé est invalide</string>
+
+</resources>
