@@ -11,4 +11,6 @@
         <!-- API 11 theme customizations can go here. -->
     </style></file><file path="C:\Users\Thibaut\AndroidStudioProjects\CryptBot-v2\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="C:\Users\Thibaut\AndroidStudioProjects\CryptBot-v2\app\src\main\res\values-v21\styles.xml" qualifiers="v21"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
     </style></file></source><source path="C:\Users\Thibaut\AndroidStudioProjects\CryptBot-v2\app\build\generated\res\rs\debug"/><source path="C:\Users\Thibaut\AndroidStudioProjects\CryptBot-v2\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Thibaut\AndroidStudioProjects\CryptBot-v2\app\src\debug\res"/></dataSet><mergedItems/></merger>
